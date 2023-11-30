@@ -1,0 +1,26 @@
+@import url('https://unpkg.com/css.gg@2.0.0/icons/css/mail.css');
+@import url('https://unpkg.com/css.gg@2.0.0/icons/css/lock.css');
+.head1{
+    color:red;
+    margin-left:600px;
+}
+.head2
+{
+    color:red;
+    margin-left:700px;
+}
+body{
+    background-color: bisque;
+}
+.navbar
+{
+    background-color: cornsilk;
+    height:70px;
+    width:1520px;
+}
+footer
+{
+    background-color: cornsilk;
+    height:70px;
+    width:1520px;
+}

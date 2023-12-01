@@ -10,13 +10,16 @@
     margin-left:700px;
 }
 body{
-    background-color: bisque;
+    background-image: url(pic.jpeg);
+    background-size:100%;
 }
 .navbar
 {
     background-color: cornsilk;
     height:70px;
     width:1520px;
+    margin-left: 40px;
+    margin-top: 10px;
 }
 footer
 {
